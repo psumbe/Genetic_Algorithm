@@ -1,5 +1,5 @@
 # Genetic_Algorithm
-Event Table Organizer
+<h6>Event Table Organizer<h6>
 
 In any social event, the guests at the event are seated in a finite number of tables. It is essential to have a good seating arrangement, and assign same table for guests with similar interests. There are various factors that would influence the assignment of guests to tables like personal interests, food preferences or if they are related. The seating of each guest would affect his/her experience at the event. Thus, it would be good to have some strategies for assigning a table to a perticular guest to make the event a success.
 
