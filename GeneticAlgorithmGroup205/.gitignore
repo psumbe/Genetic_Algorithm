@@ -1,0 +1,14 @@
+**/target/classes/geneticAlgorithm
+**/target/generated-sources
+**/target/maven-archiver
+**/target/maven-status
+
+**/build
+**/*.class
+**/*.jar
+**/bin
+**/.classpath
+**/.project
+**/.settings
+
+**/*.log
